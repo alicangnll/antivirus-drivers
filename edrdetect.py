@@ -5,7 +5,7 @@ def edrfinder(search_term):
     data = json.loads(database)
     for edr in data:
         if(str(edr["File"]) == search_term):
-            print(str(edr["File"])  + " found!")
+            print(str(edr["File"]) + " - " + str(edr["Which"]) + " found!")
 
 list = os.listdir("C:\\Windows\\System32\\drivers")
 for edrlist in list:
