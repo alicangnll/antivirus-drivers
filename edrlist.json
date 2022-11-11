@@ -1,0 +1,334 @@
+[
+ {
+   "File": "atrsdfw.sys",
+   "Which": "Altiris Symantec"
+ },
+ {
+   "File": "avgtpx86.sys",
+   "Which": "AVG Technologies"
+ },
+ {
+   "File": "avgtpx64.sys",
+   "Which": "AVG Technologies"
+ },
+ {
+   "File": "naswSP.sys",
+   "Which": "Avast"
+ },
+ {
+   "File": "edrsensor.sys",
+   "Which": "BitDefender SRL"
+ },
+ {
+   "File": "CarbonBlackK.sys",
+   "Which": "Carbon Black"
+ },
+ {
+   "File": "parity.sys",
+   "Which": "Carbon Black"
+ },
+ {
+   "File": "cbk7.sys",
+   "Which": "Carbon Black"
+ },
+ {
+   "File": "cbstream.sys",
+   "Which": "Carbon Black"
+ },
+ {
+   "File": "csacentr.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "csaenh.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "csareg.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "csascr.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "csaav.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "csaam.sys",
+   "Which": "Cisco"
+ },
+ {
+   "File": "rvsavd.sys",
+   "Which": "CJSC Returnil Software"
+ },
+ {
+   "File": "cfrmd.sys",
+   "Which": "Comodo Security"
+ },
+ {
+   "File": "cmdccav.sys",
+   "Which": "Comodo Security"
+ },
+ {
+   "File": "cmdguard.sys",
+   "Which": "Comodo Security"
+ },
+ {
+   "File": "CmdMnEfs.sys",
+   "Which": "Comodo Security"
+ },
+ {
+   "File": "MyDLPMF.sys",
+   "Which": "Comodo Security"
+ },
+ {
+   "File": "im.sys",
+   "Which": "CrowdStrike"
+ },
+ {
+   "File": "csagent.sys",
+   "Which": "CrowdStrike"
+ },
+ {
+   "File": "CybKernelTracker.sys",
+   "Which": "CyberArk"
+ },
+ {
+   "File": "CRExecPrev.sys",
+   "Which": "Cybereason"
+ },
+ {
+   "File": "CyOptics.sys",
+   "Which": "Cylance Inc."
+ },
+ {
+   "File": "CyProtectDrv32.sys",
+   "Which": "Cylance Inc."
+ },
+ {
+   "File": "CyProtectDrv64.sys",
+   "Which": "Cylance Inc."
+ },
+ {
+   "File": "groundling32.sys",
+   "Which": "Dell Secureworks"
+ },
+ {
+   "File": "groundling64.sys",
+   "Which": "Dell Secureworks"
+ },
+ {
+   "File": "esensor.sys",
+   "Which": "Endgame"
+ },
+ {
+   "File": "edevmon.sys",
+   "Which": "ESET"
+ },
+ {
+   "File": "ehdrv.sys",
+   "Which": "ESET"
+ },
+ {
+   "File": "FeKern.sys",
+   "Which": "FireEye"
+ },
+ {
+   "File": "WFP_MRT.sys",
+   "Which": "FireEye"
+ },
+ {
+   "File": "xfsgk.sys",
+   "Which": "F-Secure"
+ },
+ {
+   "File": "fsatp.sys",
+   "Which": "F-Secure"
+ },
+ {
+   "File": "fshs.sys",
+   "Which": "F-Secure"
+ },
+ {
+   "File": "HexisFSMonitor.sys",
+   "Which": "Hexis Cyber Solutions"
+ },
+ {
+   "File": "klifks.sys",
+   "Which": "Kaspersky"
+ },
+ {
+   "File": "klifaa.sys",
+   "Which": "Kaspersky"
+ },
+ {
+   "File": "Klifsm.sys",
+   "Which": "Kaspersky"
+ },
+ {
+   "File": "mbamwatchdog.sys",
+   "Which": "Malwarebytes"
+ },
+ {
+   "File": "mfeaskm.sys",
+   "Which": "McAfee"
+ },
+ {
+   "File": "mfencfilter.sys",
+   "Which": "McAfee"
+ },
+ {
+   "File": "PSINPROC.sys",
+   "Which": "Panda Security"
+ },
+ {
+   "File": "PSINFILE.sys",
+   "Which": "Panda Security"
+ },
+ {
+   "File": "amfsm.sys",
+   "Which": "Panda Security"
+ },
+ {
+   "File": "amm8660.sys",
+   "Which": "Panda Security"
+ },
+ {
+   "File": "amm6460.sys",
+   "Which": "Panda Security"
+ },
+ {
+   "File": "eaw.sys",
+   "Which": "Raytheon Cyber Solutions"
+ },
+ {
+   "File": "SAFE-Agent.sys",
+   "Which": "SAFE-Cyberdefense"
+ },
+ {
+   "File": "SentinelMonitor.sys",
+   "Which": "SentinelOne"
+ },
+ {
+   "File": "SAVOnAccess.sys",
+   "Which": "Sophos"
+ },
+ {
+   "File": "sld.sys",
+   "Which": "Sophos"
+ },
+ {
+   "File": "pgpwdefs.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "GEProtection.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "diflt.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "sysMon.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "ssrfsf.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "emxdrv2.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "reghook.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "spbbcdrv.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "bhdrvx86.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "bhdrvx64.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "SISIPSFileFilter.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "symevent.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "vxfsrep.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "VirtFile.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "SymAFR.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "symefasi.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "symefa.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "symefa64.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "SymHsm.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "evmf.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "GEFCMP.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "VFSEnc.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "pgpfs.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "fencry.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "symrg.sys",
+   "Which": "Symantec"
+ },
+ {
+   "File": "ndgdmk.sys",
+   "Which": "Verdasys"
+ },
+ {
+   "File": "ssfmonm.sys",
+   "Which": "Webroot"
+ },
+ {
+   "File": "dlpwpdfltr.sys",
+   "Which": "Trend Micro"
+ }
+]
